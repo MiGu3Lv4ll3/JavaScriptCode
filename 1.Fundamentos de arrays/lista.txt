@@ -1,0 +1,16 @@
+Fundamentos de Arrays
+
+#1 Multiplica todos los elementos por dos
+#2 Transforma un Array de objetos a un Array de strings
+#3 Calcula y agrega una nueva propiedad en un Array
+#4 Retorna solo palabras de 4 letras y más.
+#5 Filtra las compras que cumplan con las condiciones.
+#6 Busca dentro de un string y descubre si ¿Tiene la clave?
+#7 Crea un buscador que retorne palabras de acuerdo parámetro de búsqueda
+#8 Calcula la suma total de los elementos
+#9 Calcular la suma de todas las compras entre objetos
+#10 Retornar si al menos alguno de los números es par
+#11 Retorna un booleano si todos los elementos son pares
+#12 Resuelve si dentro de una lista de cartas tienes el AS
+#13 Retorna la posición de una llave dentro de una lista
+#14 Transforma un string y sepáralo por comas, como en un CSV

@@ -1,0 +1,18 @@
+web: https://jshero.platzi.com/challenges
+
+
+Arrays como un Pro
+#1 Combina dos arrays de números en uno solo
+#2 Transforma un array de arrays en uno de un solo nivel
+#3 Calcula el total de palabras de un texto
+#4 Ordena números de mayor a menor
+#5 Ordena por número de caracteres de mayor a menor
+#6 Ordena un array de objetos por fecha
+#7 Ordena una lista de nombres por el apellido
+#8 Retorna los valores únicos de una lista
+#9 Calcula la frecuencia con la que aparece un número
+#9.1 Calcula la frecuencia con la que aparece un número (otro metodo)
+#10 Agrega un elemento sin modificar el array original
+#11 Edita un elemento sin modificar el array original
+#12 Elimina un elemento sin modificar el array original
+
